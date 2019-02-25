@@ -1,0 +1,279 @@
+body
+{
+    margin:0;
+    padding: 0;
+}
+
+
+.header-page
+{
+    display:flex;
+    justify-content: space-between;
+    position:relative;
+    
+
+}
+
+.logo-image
+{
+    width: 83%;
+    height: 107px;
+    border-bottom: 1px solid #EFEFEF;
+}
+
+.menu-ul1
+{
+    display: flex;
+    list-style: none;
+    font-size: 20px;
+    
+
+
+}  
+.menu-ul1 a {
+    text-decoration: none;
+
+}
+
+.menu-ul1 li
+{
+    margin-left: 5%;
+}
+
+.menu-ul2
+{
+    display:flex;
+    list-style: none;
+    font-size:20px;
+    
+}
+
+.menu-ul2 a {
+    text-decoration: none;
+
+}
+
+.menu-ul2 li
+{
+    margin-left: 5%;
+}
+.user-buttons-signup
+{
+    background-color: white;
+    color:blue;
+    font-size:20px;
+    border-right: 1px solid #EFEFEF;
+    padding: 50px 20px;
+    cursor: pointer;
+    float:left;
+   
+   
+
+}
+
+.user-buttons-signup:hover
+{
+    background-color:gainsboro;
+    transition: all 0.5s ease-in;
+}
+
+.user-buttons-login
+{
+    background-color: white;
+    color:black;
+    font-size:20px;
+    border-bottom: 1px solid #EFEFEF;
+    padding: 50px 20px;
+    cursor: pointer;
+    float:left;
+    
+    
+  
+   
+}
+
+.user-buttons-login:hover
+{
+    background-color:gainsboro;
+    transition: all 0.5s ease-in;
+}
+#menu
+{
+    border: 1px solid grey;
+    width: 50%;
+}
+
+.user-buttons
+{
+    margin-right: 3%;
+
+}
+
+.container-fluid1 
+{   
+
+    display: flex;
+   justify-content: space-between;
+   background-color:  rgb(202, 149, 163);
+   font-size: 2.6em;
+  
+}
+
+.ban span
+{
+    color:white;
+    margin-top: 300px;
+}
+.btn-watch
+{
+    background-color: white ;
+    border: 2px solid rgb(81, 194, 159);
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    color: black;
+    padding: 30px 64px;
+    font-size: 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.cont1
+{
+    background-color: rgb(254, 210, 74);
+}
+.cont2
+{
+    background-color: rgb(81, 194, 159);
+}
+.cont3
+{
+  background-color:  rgb(62, 169, 245);
+}
+.flex-container {
+    position: relative;
+    color: gray;  
+    font-size: 22px;
+    display: flex;
+    justify-content:space-between;
+  }
+
+  .flex-img { 
+    position: relative;
+    justify-content:space-around;
+    margin: 30px;
+    
+     
+     
+    }
+
+    .flex-img { 
+        position: relative;
+        justify-content:space-around;
+        margin: 30px;
+        
+         
+         
+        }
+      
+       .flex-container123{
+        
+         font-size: 22px;
+      
+         justify-content:space-around;
+       }
+       
+       .text{
+        justify-content:center;
+        color: black;
+        background-color: rgb(239, 239, 239);
+       }
+      
+       .text2{
+      
+        font-size:20px;
+        justify-content:space-around;
+        background-color: rgb(42, 45, 53);
+       }
+       
+       .text3{
+        font-size:20px;
+        justify-content:space-around;
+        background-color: rgb(42, 45, 53);
+       }
+      
+       .ma2{
+        margin: 20px;
+       }
+      
+       .butt{
+      
+        background-color: white ;
+        border: 2px solid rgb(81, 194, 159);
+        padding: 10px;
+        border-radius: 15px;
+        border: none;
+        color: black;
+        padding: 30px 64px;
+        font-size: 22px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+       }
+      
+       .butt1{
+        background-color: rgb(254, 210, 74);
+        border: 2px solid rgb(254, 210, 74);
+        padding: 10px;
+        border-radius: 15px;
+      
+        border-color:white; 
+        padding: 30px 64px;
+        font-size: 22px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+       }
+      
+       .butt2{
+        background-color: rgb(81, 194, 159);
+        border: 2px solid rgb(81, 194, 159);
+        padding: 10px;
+        border-radius: 15px;
+       
+        border-color:white; 
+        padding: 30px 64px;
+        font-size: 22px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+       }
+      
+       .butt3{
+        background-color: #3EA9F5;;
+        border: 2px solid #3EA9F5;;
+        padding: 10px;
+        border-radius: 15px;
+         border-color:white; 
+         padding: 30px 64px;
+         font-size: 22px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 16px;
+       }
+      
+       hr.new1 {
+          width: 70%;
+          color: black;
+          background-color: green;
+      }
+      
+      .budget{
+        width: 400px;
+      }
